@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://manji333.github.io/sitemap.xml
