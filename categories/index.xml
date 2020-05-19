@@ -6,35 +6,17 @@
     <description>Recent content in Categories on Manji - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:14:00 +0800</lastBuildDate>
     
 	<atom:link href="http://manji333.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>http://manji333.github.io/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>读书笔记</title>
+      <link>http://manji333.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 20 May 2020 00:14:00 +0800</pubDate>
       
-      <guid>http://manji333.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>http://manji333.github.io/categories/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://manji333.github.io/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>http://manji333.github.io/categories/index/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://manji333.github.io/categories/index/</guid>
+      <guid>http://manji333.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
     
